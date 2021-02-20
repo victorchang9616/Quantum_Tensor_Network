@@ -1,0 +1,8 @@
+input
+    {
+    Nx = 3
+    Ny = 3
+    hx =-3.5
+    quiet = no
+
+    }
