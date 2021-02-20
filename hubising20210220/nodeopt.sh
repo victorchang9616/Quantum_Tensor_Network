@@ -5,7 +5,7 @@
 #SBATCH -N 1
 #SBATCH -n 24
 #SBATCH --mem 200000
-#SBATCH --array=1-30
+##SBATCH --array=1-30
 ##SBATCH -t 13-00:00:00
 ##SBATCH --mail-type=END
 ##SBATCH --mail-user=schang21@Central.uh.edu
